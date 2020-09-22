@@ -1,0 +1,4 @@
+Dataflow mindset
+- Move
+- Process
+- Remember
